@@ -11,6 +11,7 @@ export const Blank = styled.a`
   gap: 0.5rem;
   border-radius: 0.25rem;
   font-weight: bold;
+  text-decoration: none;
   transition: all 0.3s ease-in-out;
   &:hover {
     filter: opacity(70%);

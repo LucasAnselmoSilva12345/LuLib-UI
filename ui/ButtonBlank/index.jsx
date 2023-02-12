@@ -1,3 +1,5 @@
+import React from 'react'
+import ReactDOM from 'react-dom/client'
 import { Blank } from './style.js'
 
 export function ButtonBlank({link, nameButton, iconComponent}) {
