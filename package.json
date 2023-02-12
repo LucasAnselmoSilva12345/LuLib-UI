@@ -1,6 +1,7 @@
 {
   "name": "lulib-ui",
-  "version": "1.0.4",
+  "description": "LuLib-UI is a Library of components, where the components are aimed at the most common elements in web applications, such as, fort example Buttons, Footer and later on, new elements incorporated into the library by our team",
+  "version": "1.0.5",
   "main": "index.js",
   "repository": "git@github.com:LucasAnselmoSilva12345/LuLib-UI.git",
   "author": "LucasAnselmoSilva12345 <lucasanselmodasilva02@gmail.com>",

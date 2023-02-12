@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const FooterContainer = styled.footer`
   border-top: 0.25rem solid #228be6;
@@ -29,6 +29,7 @@ export const NameAuthor = styled.h1`
 `;
 
 export const ContainerStructureListSocialNetwork = styled.ul`
+  list-style: none;
   display: flex;
   align-items: center;
   justify-content: center;
